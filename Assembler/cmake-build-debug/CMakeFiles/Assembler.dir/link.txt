@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2026.2.2\bin\cmake\win\aarch64\bin\cmake.exe" -E rm -f CMakeFiles\Assembler.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\Assembler.dir/objects.a @CMakeFiles\Assembler.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\C__~1.EXE -g -Wl,--whole-archive CMakeFiles\Assembler.dir/objects.a -Wl,--no-whole-archive -o Assembler.exe -Wl,--out-implib,libAssembler.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Assembler.dir\linkLibs.rsp
