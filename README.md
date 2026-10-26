@@ -82,4 +82,6 @@ To repeat the byte-comparison test, save copies of both machine-code files befor
 
 ## Sources and Collaboration
 
-[Add your sources and collaboration acknowledgement here.]
+## Sources and Collaboration
+
+In this assignment I used ChatGPT-6 Astra in order to help complete my project. The original FizzBuzz program was my own original code that I edited to only include basic instructions. Then I wrote the psuedo code and gave very specific instructions to ChatGPT for how I wanted to create my C++ Assembler. After careful prompting, reviewing, and testing I had my assembler program. Then I repeated this process to create the disassembler program. Therefore, the majority of my code was written by ChatGPT, however the initial vision for how to accomplish the program is my own. Lastly, had ChatGPT create this read me file by feeding it the deliverables and quality checklist instructions. However, this paragraph is wholly my own writing.
