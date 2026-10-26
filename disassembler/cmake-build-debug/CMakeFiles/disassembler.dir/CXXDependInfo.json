@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/fitzp/CLionProjects/disassembler/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/fitzp/CLionProjects/disassembler",
+	"dir-top-bld" : "C:/Users/fitzp/CLionProjects/disassembler/cmake-build-debug",
+	"dir-top-src" : "C:/Users/fitzp/CLionProjects/disassembler",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/fitzp/CLionProjects/disassembler/cmake-build-debug/CMakeFiles/disassembler.dir",
+	"sources" : 
+	{
+		"CMakeFiles/disassembler.dir/disassembler.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/fitzp/CLionProjects/disassembler/disassembler.cpp"
+		}
+	}
+}

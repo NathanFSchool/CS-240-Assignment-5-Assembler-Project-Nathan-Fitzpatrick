@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/fitzp/CLionProjects/disassembler/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\disassembler.dir\\disassembler.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\disassembler.dir\\disassembler.cpp.obj -c C:\\Users\\fitzp\\CLionProjects\\disassembler\\disassembler.cpp",
+  "file": "C:/Users/fitzp/CLionProjects/disassembler/disassembler.cpp",
+  "output": "C:/Users/fitzp/CLionProjects/disassembler/cmake-build-debug/CMakeFiles/disassembler.dir/disassembler.cpp.obj"
+}
+]
